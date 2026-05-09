@@ -66,7 +66,7 @@ int ModelSetup()
 //-----------------------------------------------------------------------
 int GetName()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Statue", 256)
+  StringAppend(NAME_STRING, StringLanguage(439), 256)
 
 //-----------------------------------------------------------------------
 int RubbleEffect(float x, float y, float z, float boxsize, int height, int dark)

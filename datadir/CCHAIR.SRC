@@ -15,7 +15,7 @@ int ModelSetup()
 //-----------------------------------------------------------------------
 int GetName()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Chair", 256)
+  StringAppend(NAME_STRING, StringLanguage(344), 256)
 
 //-----------------------------------------------------------------------
 int Event()

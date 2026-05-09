@@ -201,11 +201,6 @@ int ModelSetup()
       ModelAssign(self+MODEL_ARMS_TEX3, "FILE:=ARMOR.RGB")
       ModelAssign(self+MODEL_ARMS_COLOR, limb_color_rgb)
 
-
-
-
-
-
   if(subtype < 2)
     if(subtype & 1)
       // Scruffy hair, no hat...
@@ -387,10 +382,7 @@ int GetName()
 
 
   StringClear(NAME_STRING)
-  if(subtype == 0)
-    StringAppend(NAME_STRING, "Squire", 256)
-  else
-    StringAppend(NAME_STRING, "Apprentice", 256)
+  StringAppend(NAME_STRING, StringLanguage(436 + subtype), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

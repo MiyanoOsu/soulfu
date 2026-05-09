@@ -359,7 +359,7 @@ int GetName()
   int self
   self = FindSelf()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Door", 256)
+  StringAppend(NAME_STRING, StringLanguage(352), 256)
 
 //-----------------------------------------------------------------------
 int Refresh()

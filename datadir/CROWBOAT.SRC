@@ -90,7 +90,7 @@ int GetName()
   int self
   self = FindSelf()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "ROW BOAT", 256)
+  StringAppend(NAME_STRING, StringLanguage(419), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

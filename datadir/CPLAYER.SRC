@@ -960,7 +960,7 @@ int FrameEvent()
 //-----------------------------------------------------------------------
 int GetName()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Player", 256)
+  StringAppend(NAME_STRING, StringLanguage(406), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

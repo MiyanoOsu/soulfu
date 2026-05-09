@@ -371,7 +371,7 @@ int GetName()
 
 
   if(subtype == 3)
-    StringAppend(NAME_STRING, "Metal Box", 256)
+    StringAppend(NAME_STRING, StringLanguage(348), 256)
     return TRUE
 
 
@@ -379,11 +379,11 @@ int GetName()
     if(subtype != 1 || self.action == ACTION_STAND)
       subtype = 0
   if(subtype == 0)
-    StringAppend(NAME_STRING, "Chest", 256)
+    StringAppend(NAME_STRING, StringLanguage(345), 256)
   if(subtype == 1)
-    StringAppend(NAME_STRING, "Chest Mimic", 256)
+    StringAppend(NAME_STRING, StringLanguage(346), 256)
   if(subtype == 2)
-    StringAppend(NAME_STRING, "Trapped Chest", 256)
+    StringAppend(NAME_STRING, StringLanguage(347), 256)
 
 //-----------------------------------------------------------------------
 int Refresh()

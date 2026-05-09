@@ -132,14 +132,7 @@ int GetName()
   self = FindSelf()
   subtype = self.eqcol01>>6
   StringClear(NAME_STRING)
-  if(subtype == 0)
-    StringAppend(NAME_STRING, "Gremlin", 256)
-  if(subtype == 1)
-    StringAppend(NAME_STRING, "Gremf", 256)
-  if(subtype == 2)
-    StringAppend(NAME_STRING, "Papa Gremf", 256)
-  if(subtype == 3)
-    StringAppend(NAME_STRING, "Mini Divil", 256)
+  StringAppend(NAME_STRING, StringLanguage(367 + subtype), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

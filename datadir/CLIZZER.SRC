@@ -173,15 +173,8 @@ int GetName()
   big = self.eqcol01&1
   StringClear(NAME_STRING)
   if(big)
-    StringAppend(NAME_STRING, "Big ", 256)
-  if(subtype == 0)
-    StringAppend(NAME_STRING, "Lizzerman", 256)
-  if(subtype == 1)
-    StringAppend(NAME_STRING, "Stalker", 256)
-  if(subtype == 2)
-    StringAppend(NAME_STRING, "Naga", 256)
-  if(subtype == 3)
-    StringAppend(NAME_STRING, "Dragonman", 256)
+    StringAppend(NAME_STRING, StringLanguage(383), 256)
+  StringAppend(NAME_STRING, StringLanguage(384 + subtype), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

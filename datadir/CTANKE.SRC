@@ -185,13 +185,13 @@ int GetName()
 
   StringClear(NAME_STRING)
   if(impish)
-    StringAppend(NAME_STRING, "Impish ", 256)
+    StringAppend(NAME_STRING, StringLanguage(441), 256)
   else
-    StringAppend(NAME_STRING, "G'nomish ", 256)
+    StringAppend(NAME_STRING, StringLanguage(442), 256)
   if(subtype == 0)
-    StringAppend(NAME_STRING, "Tanke", 256)
+    StringAppend(NAME_STRING, StringLanguage(443), 256)
   else
-    StringAppend(NAME_STRING, "Recon", 256)
+    StringAppend(NAME_STRING, StringLanguage(444), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

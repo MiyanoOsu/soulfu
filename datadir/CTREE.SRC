@@ -29,7 +29,7 @@ int ModelSetup()
 int GetName()
   int self
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Tree", 256)
+  StringAppend(NAME_STRING, StringLanguage(449), 256)
 
 //-----------------------------------------------------------------------
 int AIScript()

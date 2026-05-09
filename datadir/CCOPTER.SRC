@@ -208,7 +208,7 @@ int ModelSetup()
 //-----------------------------------------------------------------------
 int GetName()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "G'nomish Copter", 256)
+  StringAppend(NAME_STRING, StringLanguage(349), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

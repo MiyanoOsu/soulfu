@@ -350,10 +350,7 @@ int GetName()
 
 
   StringClear(NAME_STRING)
-  if(subtype == 0)
-    StringAppend(NAME_STRING, "Audience", 256)
-  else
-    StringAppend(NAME_STRING, "Audience", 256)
+  StringAppend(NAME_STRING, StringLanguage(332), 256)
   STANDARD.NameAppendHits()
 
 

@@ -39,7 +39,7 @@ int GetName()
   self = FindSelf()
   subtype = (self.eqcol01>>7)
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Vine Mage", 256)
+  StringAppend(NAME_STRING, StringLanguage(450), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

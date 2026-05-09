@@ -116,7 +116,7 @@ int GetName()
   int self
   self = FindSelf()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Button", 256)
+  StringAppend(NAME_STRING, StringLanguage(339), 256)
 
 //-----------------------------------------------------------------------
 int Spawn()

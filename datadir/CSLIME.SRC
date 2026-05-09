@@ -33,14 +33,7 @@ int GetName()
 
 
   StringClear(NAME_STRING)
-  if(subtype == 0)
-    StringAppend(NAME_STRING, "Slime", 256)
-  if(subtype == 1)
-    StringAppend(NAME_STRING, "Ooze", 256)
-  if(subtype == 2)
-    StringAppend(NAME_STRING, "Blob", 256)
-  if(subtype == 3)
-    StringAppend(NAME_STRING, "Cement", 256)
+  StringAppend(NAME_STRING, StringLanguage(424 + subtype), 256)
   STANDARD.NameAppendHits()
 
 

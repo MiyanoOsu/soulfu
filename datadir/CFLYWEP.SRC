@@ -54,7 +54,7 @@ int GetName()
   int self
   self = FindSelf()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "FLYING WEAPON", 256)
+  StringAppend(NAME_STRING, StringLanguage(362), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

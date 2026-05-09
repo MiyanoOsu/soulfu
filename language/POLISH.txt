@@ -29,7 +29,7 @@ Kolory :
 Gamma  :
 Tryb   :
 Okno,Pe”en ekran
-Dzwi“k :
+D÷wi“k :
 Muzyka :
 Skala  :
 Ma”a,Normalna,Du◊a,Ogromna
@@ -329,3 +329,146 @@ Jedz wiecej owocow!
 Usmiechaj sie wiecej!  Usmiechnij sie TERAZ!
 
 puste
+Publiczno’—
+Beczka
+Beczka-Pu”apka
+Ogromny Nietoperz
+Nietoperz Jaskiniowy
+Nietoperz Lochowy
+Nietoperz-Wampir
+Przycisk
+Sokole Oko
+S“pi Mag
+Opierzony Rycerz
+Tengu
+Krzes”o
+Skrzynia
+Mimik
+Skrzynia-Pu”apka
+Metalowa Skrzynia
+Gnomikopter
+Kontener
+Kontener-Pu”apka
+Drzwi
+Czerwony Smok
+Zielony Smok
+Niebieski Smok
+Czarny Smok
+Bia”y Smok
+Nietoperze Oko
+Oko Meduzy
+Wartownik
+Magiczne Oko
+Lataj–ca Bro‘
+Kamienny Golem
+Ÿelazny Golem
+Kryszta”owy Golem
+Gnomi Moloch
+Gremlin
+Gremf
+Papa Gremf
+Diabe”ek
+P“drak
+B”otniak
+Szkar”ak
+Zmroczniak
+Mama P“draka
+Mama B”otniaka
+Mama Szkar”aka
+Mama Zmroczniaka
+Gno-Kart
+Gnomia Taczanka
+Kociak
+Szczeniak
+Du◊y 
+Jaszczurocz”ek
+Dr“czyciel
+Naga
+Drakon
+Pomiot
+Goblin
+Chochli Pomiot
+Diabli Pomiot
+Kamienny Czyhacz
+Pan Stalagmit
+Sopel
+Ÿelazny Kolec
+Nieduza
+Gorgona
+Meduza
+Duza
+Gnomi Karabin Maszynowy
+Grzybek
+Ogr
+Ogr Szaman
+Gigant Lodu
+Gigant Ognia
+Gracz
+Wieprz
+Kwik-Hai
+Mroczny Wojownik
+Mroczny Czempion
+Wielki Szczur
+Szczur Laboratoryjny
+Szczur Plagi
+Szczurzy KrÛl Mrozu
+Karaluszek
+Kapciosyf
+Chwytacz
+Pojmacz
+”Ûd÷
+Czacha
+◊niwiarz
+Mag Ko’ci
+KrÛl Liszaj
+Glut
+Ma÷
+Kleks
+Beton
+Gluci–tko
+Mazi–tko
+Kleksi–tko
+Betonik
+Szmaragdowy W–◊
+Grzechotnik Py”owy
+Kr“tacz
+◊mija-Plujka
+Giermek
+Ucze‘
+Strzelec
+Pomnik
+Spl–tane Pn–cza
+Chochli 
+Gnomi 
+Czo”g
+Zwiad
+Paj–k Okopowy
+Pustelnik Szafirowy
+Krwawa Wdowa
+Paj“cza KrÛlowa
+Drzewo
+Mag Pn–czy
+Zaklinacz
+Przywo”ywacz
+Czarnoksi“◊nik
+Noggindorf Wielki
+StrÛ◊
+Obserwator
+Czerwone Smocze Szczeni“
+Zielone Smocze Szczeni“
+Niebieskie Smocze Szczeni“
+Czarne Smocze Szczeni“
+Bia”e Smocze Szczeni“
+Ognik
+Duch
+Zjawa
+UpiÛr
+Widmo
+Hau
+Straszny Hau
+Zimowy Hau
+Hot Dog
+Zombi
+Ghul
+Mumia
+By”y Faraon

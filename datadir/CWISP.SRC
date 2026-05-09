@@ -121,7 +121,7 @@ int GetName()
   self = FindSelf()
   subtype = (self.eqcol01>>7)
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "WISP", 256)
+  StringAppend(NAME_STRING, StringLanguage(462), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

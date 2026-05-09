@@ -29,7 +29,7 @@ int ModelSetup()
 //-----------------------------------------------------------------------
 int GetName()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Tangle Vines", 256)
+  StringAppend(NAME_STRING, StringLanguage(440), 256)
 
 //-----------------------------------------------------------------------
 int Refresh()

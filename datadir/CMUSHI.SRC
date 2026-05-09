@@ -16,7 +16,7 @@ int GetName()
   int self
   self = FindSelf()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "Mushi", 256)
+  StringAppend(NAME_STRING, StringLanguage(401), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------

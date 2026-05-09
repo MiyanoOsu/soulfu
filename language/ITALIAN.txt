@@ -329,3 +329,146 @@ Mangiate più frutta!
 Sorridete di più!  Sorridete ora!
 
 vuoto
+Audience
+Barrel
+Trapped Barrel
+Giant Bat
+Cave Bat
+Dungeon Bat
+Vampire Bat
+Button
+Eagle Eye
+Carrion Mage
+Feather Knight
+Tengu
+Chair
+Chest
+Chest Mimic
+Trapped Chest
+Metal Box
+G'nomish Copter
+Crate
+Trapped Crate
+Door
+Red Dragon
+Green Dragon
+Blue Dragon
+Black Dragon
+White Dragon
+Eye Bat
+Petriff Eye
+Sentinel
+Magic Eye
+FLYING WEAPON
+Stone Golem
+Iron Golem
+Crystal Golem
+G'nomish Juggernaut
+Gremlin
+Gremf
+Papa Gremf
+Mini Divil
+Grub Bug
+Puddle Bug
+Crimson Bug
+Dusk Bug
+Grub Mum
+Puddle Mum
+Crimson Mum
+Dusk Mum
+G'nomish Kart
+G'nomish Hedgehog
+Kitten
+Puppy
+Big 
+Lizzerman
+Stalker
+Naga
+Dragonman
+Lumpkin
+Goblin
+Impkin
+Divilkin
+Stone Lurker
+Mr. Stalagums
+Frostcicle
+Iron Spike
+Kidusa
+Gorgon
+Medusa
+Jivedusa
+G'nomish MiniGonne
+Mushi
+Ogre
+Ogre Shaman
+Frost Giant
+Fire Giant
+Player
+Porc
+O'ink-Hai
+Dark Warrior
+Dark Champion
+Great Rat
+Lab Rat
+Plague Rat
+Snow King Rat
+Roachie
+Slippergoo
+Snatcher
+Grippler
+ROW BOAT
+Skulton
+Reaper
+Bone Mage
+Lich King
+Slime
+Ooze
+Blob
+Cement
+Slimette
+Oozette
+Blobette
+Cemette
+Emerald Snake
+Dust Rattler
+Twister
+Spit Viper
+Squire
+Apprentice
+Gonner
+Statue
+Tangle Vines
+Impish 
+G'nomish 
+Tanke
+Recon
+Tranch
+Blue Recluse
+Blood Widow
+Spider Queen
+Tree
+Vine Mage
+Enchanter
+Summoner
+Warlock
+Noggindorf
+Watcher
+Observer
+Red Dragon Whelp
+Green Dragon Whelp
+Blue Dragon Whelp
+Black Dragon Whelp
+White Dragon Whelp
+WISP
+Ghost
+Haunt
+Wraithe
+Spork Wraithe
+Wuff
+Dire Wuff
+Winter Wuff
+Hot Dog
+Zombi
+Ghoul
+Mummy
+Ex Pharoh

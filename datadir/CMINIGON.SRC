@@ -129,7 +129,7 @@ int GetName()
   int self
   self = FindSelf()
   StringClear(NAME_STRING)
-  StringAppend(NAME_STRING, "G'nomish MiniGonne", 256)
+  StringAppend(NAME_STRING, StringLanguage(400), 256)
 
 //-----------------------------------------------------------------------
 int Refresh()

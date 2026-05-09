@@ -354,10 +354,7 @@ int GetName()
   self = FindSelf()
   subtype = self.eqcol01>>7
   StringClear(NAME_STRING)
-  if(subtype == 0)
-    StringAppend(NAME_STRING, "G'nomish Kart", 256)
-  if(subtype == 1)
-    StringAppend(NAME_STRING, "G'nomish Hedgehog", 256)
+  StringAppend(NAME_STRING, StringLanguage(379 + subtype), 256)
   STANDARD.NameAppendHits()
 
 //-----------------------------------------------------------------------
